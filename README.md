@@ -15,7 +15,7 @@ To install the theme you will need (of course) "oblogout", the .png files (conta
 
 4 - Enjoy! :D 
 
-![My image](https://github.com/bruhensant/Adeos-Oblogout/blob/master/adeos-archlabs/Preview-ArchLabs.png)
+![My image](https://github.com/bruhensant/Adeos-ArchLabs/blob/master/Preview-ArchLabs.png)
 
 ## Contact and Thanks
 
