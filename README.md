@@ -22,4 +22,4 @@ To install the theme you will need (of course) "oblogout", the .png files (conta
 Me: https://t.me/bruhensant
 Matthew Dobson: https://dobbie03.deviantart.com/
 Erik Dubois: https://erikdubois.deviantart.com/
-ArchLabs Blog: https://archlabsblog.wordpress.com/
+ArchLabs Site: https://archlabslinux.com/
